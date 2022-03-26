@@ -1,0 +1,21 @@
+{
+  "short_name": "KAS",
+  "name": "KAS",
+  "icons": [
+    {
+        "src": "img/kas-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "img/kas-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#9c36b5",
+  "background_color": "#2B2929",
+  "display": "standalone",
+  "scope": "/"
+}
